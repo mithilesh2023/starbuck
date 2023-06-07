@@ -99,10 +99,13 @@
     font-size: 12px;
     font-weight: 600;
     padding:10px;
-
 }
 
 /* navbar-second end */
+
+/* for gift page  */
+
+
 /* about start */
 .about-cont{
     width: 100%;
@@ -140,10 +143,6 @@ span{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
-/* .about:hover{
-    background-color: rgba(0, 0, 0, 0.153);
-} */
-
 .about h2 {
     position: relative;
     top: 200px;
@@ -172,7 +171,6 @@ width: 170px;
     background-color: #edebe9;
     margin: auto;
     margin-bottom: 60px;
-    /* display: flex; */
 }
 .rec{
     width: 88%;
@@ -295,6 +293,7 @@ width: 170px;
 }
 
 /*handicrafted end  */
+/* slider start */
 .slider{
     width: 85%;
     height: 220px;
@@ -348,6 +347,7 @@ width: 170px;
     font-size: 12px;
     font-weight: 600;
 }
+/* slider end */
 /* Footer start */
 .footer {
     width: 100%;
@@ -429,6 +429,4 @@ hr {
     font-size: 13px;
     padding-left: 160px;
 }
-
-
 /* Footer end */
